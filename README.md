@@ -10,7 +10,7 @@
 This project implements slider and feedback form :
 * slider in JavaScript
 * CSS animation
-* feedback form
+* feedback form of Formspree platform
 
 ## Preview
 ![Travel - Google Chrome 13 07 2023 13_17_00](https://github.com/TatianaBrt/Travel-Agency/assets/115479875/1c027fcb-030c-4650-810d-b370efc12a7f)
